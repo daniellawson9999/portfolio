@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: RL for FTC
+description: Reinforcement Learning for First Tech Challenge (FTC) Robotics
+img: assets/img/RLFTC.png
+redirect: https://github.com/daniellawson9999/Capstone_Python
 importance: 3
 category: work
 ---
