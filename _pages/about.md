@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Daniel. I'm currently a senior at Purdue University. Currently, I am doing research with [Ahmed Qureshi](https://qureshiahmed.github.io/) in the [Cognitive Robot Autonomy & Learning Lab](https://corallab.net/), related to Reinforcement Learning and Sampling-based Planning for robotics. I am generally interested in autonomous decision-making. 
 
+contact: lawson95 AT purdue.edu
+
 <br>
 
 
