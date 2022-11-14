@@ -28,7 +28,7 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title"><a href="{{entry.url}}">{{entry.title}}</a></div>
           <!-- Author -->
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}
@@ -125,7 +125,10 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+          
+          <div>
+            Preprint
+          </div>
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}

@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+years: [2022]
 profile:
   align: right
   image: prof_pic.jpg
@@ -23,9 +23,25 @@ Hi, I'm Daniel. I'm currently a senior at Purdue University. Currently, I am doi
 contact: lawson95 AT purdue.edu
 
 <br>
+<br>
 
 
-## Past Projects 
+## Publications
+
+<!-- _pages/publications.md -->
+
+<div class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
+
+<br>
+
+## Highlighted Projects 
 
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -74,8 +90,9 @@ contact: lawson95 AT purdue.edu
 {%- endif -%}
 </div>
 
+<br>
+
 ### Paper Implementations
 - [Online Decision Transformer](https://github.com/daniellawson9999/online-decision-transformer)
 
 
-### Other
