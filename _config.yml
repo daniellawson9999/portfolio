@@ -248,7 +248,6 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  plugins_dir: [jekyll-scholar]
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
