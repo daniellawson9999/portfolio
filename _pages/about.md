@@ -42,7 +42,7 @@ contact: lawson95 AT purdue.edu
 <br>
 
 ## Highlighted Projects 
-
+Additional projects can be found on my [GitHub](https://github.com/daniellawson9999).
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
