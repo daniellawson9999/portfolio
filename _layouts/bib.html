@@ -126,9 +126,9 @@
           </div>
         {%- endif %}
           
-          <div>
+          <!-- <div>
             Preprint
-          </div>
+          </div> -->
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
@@ -179,6 +179,9 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          {%- if entry.title == "Merging Decision Transformers" %}
+            <p>In Progress</p>
           {%- endif %}
           </div>
 

@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-years: [2022]
+years: [2023,2022]
 profile:
   align: right
   image: prof_pic.jpg
@@ -26,7 +26,7 @@ contact: lawson95 AT purdue.edu
 <br>
 
 
-## Publications
+## Papers
 
 <!-- _pages/publications.md -->
 
