@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Daniel. I'm currently a senior at Purdue University. I am generally interested in machine learning and reinforcement learning. Currently, I am doing research with [Ahmed Qureshi](https://qureshiahmed.github.io/) in the [Cognitive Robot Autonomy & Learning Lab](https://corallab.net/) related to robotics.
 
-contact: lawson95 AT purdue.edu
+contact: daniellawson9999 (at) gmail.com
+
 
 <br>
 <br>
