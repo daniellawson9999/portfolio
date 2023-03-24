@@ -39,6 +39,7 @@ contact: daniellawson9999 (at) gmail.com
 {% endfor %}
 
 </div>
+Other work can be found [here](https://scholar.google.com/citations?user=yboVGIIAAAAJ).
 
 <br>
 
