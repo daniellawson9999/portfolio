@@ -6,7 +6,8 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 years: [2023,2022]
 profile:
   align: right
-  image: prof_pic.jpg
+  #image: prof_pic.jpg
+  image: me-crop.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
