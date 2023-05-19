@@ -143,6 +143,9 @@
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %}
+          {%- if entry.RRL %}
+            <a href="{{ entry.rrl }}" class="btn btn-sm z-depth-0" role="button">RRL</a>
+          {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
@@ -180,9 +183,9 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
-          {%- if entry.title == "Merging Decision Transformers: Weight Averaging for Forming Multi-Task Policies" %}
+          <!-- {%- if entry.title == "Merging Decision Transformers: Weight Averaging for Forming Multi-Task Policies" %}
             <p>In Progress</p>
-          {%- endif %}
+          {%- endif %} -->
           </div>
 
           {% if entry.abstract -%}
