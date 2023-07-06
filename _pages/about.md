@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-redirect_from:
-  - /portfolio
+# redirect_from:
+#   - /portfolio
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 years: [2023,2022]
 profile:
