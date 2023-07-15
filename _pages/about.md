@@ -102,5 +102,6 @@ Additional projects can be found on my [GitHub](https://github.com/daniellawson9
 
 ### Paper Implementations
 - [Online Decision Transformer](https://github.com/daniellawson9999/online-decision-transformer)
+- [Gato for Control](https://github.com/daniellawson9999/gato-control)
 
 
