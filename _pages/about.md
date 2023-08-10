@@ -21,9 +21,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Daniel. I'm a (4+1) BS/MS CS student @ Purdue University. I completed the BS part of my degree in Spring 2023, and now completing the MS portion with an estimated graduation in Spring 2024. 
+Hi, I'm Daniel.
 
 I am generally interested in machine learning,  reinforcement learning, and robotics. I am also working on research with Professor [Ahmed Qureshi](https://qureshiahmed.github.io/) in the [Cognitive Robot Autonomy & Learning Lab](https://corallab.net/).
+
+I'm a (4+1) BS/MS CS student @ Purdue University. I completed the BS part of my degree in Spring 2023, and now completing the MS portion with an estimated graduation in Spring 2024.
 
 
 contact: daniellawson9999 (at) gmail.com
