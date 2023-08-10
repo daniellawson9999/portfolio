@@ -45,9 +45,13 @@ contact: daniellawson9999 (at) gmail.com
 {% endfor %}
 
 </div>
-Other work can be found [here](https://scholar.google.com/citations?user=yboVGIIAAAAJ).
+<!-- Other work can be found [here](https://scholar.google.com/citations?user=yboVGIIAAAAJ). -->
 
 <br>
+
+## Paper Implementations
+- [Online Decision Transformer](https://github.com/daniellawson9999/online-decision-transformer)
+- [Gato for Control](https://github.com/daniellawson9999/gato-control)
 
 ## Highlighted Projects 
 Additional projects can be found on my [GitHub](https://github.com/daniellawson9999).
@@ -99,9 +103,3 @@ Additional projects can be found on my [GitHub](https://github.com/daniellawson9
 </div>
 
 <br>
-
-### Paper Implementations
-- [Online Decision Transformer](https://github.com/daniellawson9999/online-decision-transformer)
-- [Gato for Control](https://github.com/daniellawson9999/gato-control)
-
-

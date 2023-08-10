@@ -111,6 +111,8 @@
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- elsif proceedings contains entry.type -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- elsif entry.venue -%}
+            {%- capture entrytype -%}<em>{{entry.venue}}</em> {%- endcapture -%}
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
@@ -120,10 +122,15 @@
           {%- if entry.year -%}
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
           {%- endif -%}
-          {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+          <!-- {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%} -->
+          {%- capture periodical -%}{{ entrytype }}{%- endcapture -%}
           <div class="periodical">
             {{ periodical | strip }}
           </div>
+
+          <!-- <div class="periodical">
+            {{ periodical | strip }}
+          </div> -->
         {%- endif %}
           
           <!-- <div>
