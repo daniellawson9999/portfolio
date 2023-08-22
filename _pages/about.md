@@ -4,6 +4,8 @@ title: about
 permalink: /
 # redirect_from:
 #   - /portfolio
+redirect_to:
+  - https://danielblawson.github.io/
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 years: [2023,2022]
 profile:
